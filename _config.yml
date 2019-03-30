@@ -20,7 +20,7 @@ webtitle: 'avery 个人博客'
 bio: 'your awesome bio'
 about: true
 aboutyou: 'your introduction'
-portraits: '/assets/jingyu.jpg' # your portraits image file path
+portraits: '/assets/images.jpg' # your portraits image file path
 
 # SNS
 SNS: true
